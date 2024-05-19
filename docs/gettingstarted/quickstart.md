@@ -10,7 +10,7 @@ Our boilerplate utilizes [Supertokens](https://supertokens.com/) to handle our L
 
 There service is great and cheaper than most alternatives. Free under **5,000 Monthly Active Users**, using ther hosting. Alternative you can decide to self-host this service in the future if you like.
 
-Also if you have technical diffculties with supertokens itself. They have a great support via [discord](https://supertokens.com/discord). 
+Also if you have technical diffculties with supertokens itself. They have a great support via [discord](https://supertokens.com/discord).
 
 **Self-Host is Free and Open Source**.
 
@@ -22,11 +22,9 @@ Configure Supertokens, [Click here](authenticationSetup.md).
 
 ##### Step 2: Env Setups
 
-Url Setup -
-
 Database (MongoDB) Setup -
 
-Authenication (Supertoken) Setup -
+Authenication (Supertoken) / URL Setup -
 
 Email (ConvertKit) Setup -
 
