@@ -22,14 +22,14 @@ Configure Supertokens, [Click here](authenticationSetup.md).
 
 ##### Step 2: Env Setups
 
-Database (MongoDB) Setup -
+Database (MongoDB) Setup
 
-Authenication (Supertoken) / URL Setup -
+Authenication (Supertoken) / URL Setup 
 
-Email (ConvertKit) Setup -
+Email (ConvertKit) Setup
 
-Payment (Stripe) Setup -
+Payment (Stripe) Setup
 
-Real-time Error handling (Sentry.io) -
+Real-time Error handling (Sentry.io)
 
-Analytics (Google Analytics) -
+Analytics (Google Analytics)

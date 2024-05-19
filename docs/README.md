@@ -28,4 +28,4 @@ Tools and Guides will provide you with Email Templates to use with Convertkit, a
 
 ##### Step 2: Quick Start
 
-Head over to [QuickStart](quickstart.md) to get started!
+Head over to [QuickStart](gettingstarted/quickstart.md) to get started!
