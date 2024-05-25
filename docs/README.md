@@ -20,7 +20,7 @@ You will notice that there are three folders
 
 `Frontend`, `Backend`, and `Tools and Guides`
 
-Frontend utilizes Reactjs, it is a client-side-rendering framework. You will develop the UI for your users to see here
+Frontend utilizes Reactjs + Vitejs, it is a client-side-rendering framework. You will develop the UI for your users to see here
 
 Backend utilizes Nodejs + Expressjs, to provides API calls to your frontend
 

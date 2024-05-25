@@ -8,7 +8,7 @@
   * Public Routes/API Calls
   * Private Routes/API Calls
 * Features
-  * Seo
+  * [Seo](Features/Seo.md)
   * [Database](Features/Database.md)
   * Emails
   * Payment (Stripe)

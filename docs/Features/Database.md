@@ -7,4 +7,4 @@
 3. Then click `Database Access`, and then `+ Add New Database User`. Enter your a Username and Password for the database access. Click on `Built-in Role`, and allow `Read and Write To Any Database`.
 4. Then click `Database`, and then `Connect`, and then `Drivers`, and copy the URL. Enter your username + password, and paste your url into .env inside your Backend folder `DB_URL=""`.
 
-With MongoDB Atlas, we will be using Mongoose. In the `Backend/src/services/mongodb/schema`. Where the User Schema is prebuilt for you. But you can add schemas based on your conditions, the example provided.
+With MongoDB Atlas, we will be using Mongoose. In the `Backend/src/services/mongodb/schema`. Where the User Schema is prebuilt for you. But you can add schemas based on your conditions, the example provided is a simple User template which is generated once a user sign ups.

@@ -14,23 +14,23 @@ Step 4: Finish all steps in Supertokens
 
 In your .env.example please rename it to .env
 
-`REACT_APP_FRONTEND_URL="http://localhost:3000" `
+`VITE_APP_FRONTEND_URL="http://localhost:3000" `
 
-`REACT_APP_BACKEND_URL="http://localhost:4000" `
+`VITE_APP_BACKEND_URL="http://localhost:4000" `
 
 For development purposes use these URLs, `http://localhost:3000` will be accessible by your browser while `http://localhost:4000` will be your API, so your backend.
 
 When you are in production mode rename the urls to something like this.
 
-`REACT_APP_FRONTEND_URL="https://swiftysaas.com" `
+`VITE_APP_FRONTEND_URL="https://swiftysaas.com" `
 
-`REACT_APP_BACKEND_URL="https://api.swiftysaas.com" `
+`VITE_APP_BACKEND_URL="https://api.swiftysaas.com" `
 
 **Frontend Supertoken Config**
 
 To configure visit `Frontend/Src/services/supertokens/supertokens.tsx`
 
-Most of its already configured for you. 
+Most of its already configured for you.
 
 `getRedirectionURL`, once a user signs in, they will be redirected to `/Profile`. If you want to change the url post sign in or sign up. Change it to whatever path you desire.
 
@@ -46,17 +46,17 @@ Please do the same for the .env in your backend
 
 In your .env.example please rename it to .env
 
-`REACT_APP_FRONTEND_URL="http://localhost:3000"`
+`VITE_APP_FRONTEND_URL="http://localhost:3000"`
 
-`REACT_APP_BACKEND_URL="http://localhost:4000"`
+`VITE_APP_BACKEND_URL="http://localhost:4000"`
 
 For development purposes use these urls, Localhost:3000 will be accessible by your browser while Localhost:4000 will be your api, so your backend.
 
 When you are in production mode rename the urls to something like this.
 
-`REACT_APP_FRONTEND_URL="https://swiftysaas.com"`
+`VITE_APP_FRONTEND_URL="https://swiftysaas.com"`
 
-`REACT_APP_BACKEND_URL="https://api.swiftysaas.com"`
+`VTE_APP_BACKEND_URL="https://api.swiftysaas.com"`
 
 Please add Supertoken Urls and Api Keys, [click here](https://supertokens.com/dashboard-saas) for the link
 
