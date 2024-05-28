@@ -1,0 +1,11 @@
+/* Change the background color of code blocks */
+.markdown-section pre {
+    background-color: #f8f8f8; /* light grey background */
+  }
+  
+  /* Change the background color of inline code */
+  .markdown-section code {
+    background-color: #f8f8f8; /* slightly darker grey background */
+    color: #FF601A; /* a different text color */
+  }
+  
