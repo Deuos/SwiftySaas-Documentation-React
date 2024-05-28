@@ -12,4 +12,4 @@
   * [Database](Features/Database.md)
   * Emails
   * Payment (Stripe)
-  * Error Handling
+  * [Error Handling](Features/ErrorHandling.md)

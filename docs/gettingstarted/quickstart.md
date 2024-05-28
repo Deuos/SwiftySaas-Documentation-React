@@ -18,18 +18,18 @@ Check out their [Pricing](https://supertokens.com/pricing), here.
 
 We will be using their `Email + Password login` for our boilerplate.
 
-Configure Supertokens, [Click here](authenticationSetup.md).
+Configure Supertokens, [Click here](gettingstarted\quickstart/authenticationSetup.md).
 
 ##### Step 2: Env Setups
 
-Database (MongoDB) Setup
+[Database (MongoDB) Setup](Features/Database.md)
 
-Authenication (Supertoken) / URL Setup 
+[Authenication (Supertoken) / URL Setup](gettingstarted/quickstart\authenticationSetup.md)
 
 Email (ConvertKit) Setup
 
 Payment (Stripe) Setup
 
-Real-time Error handling (Sentry.io)
+[Real-time Error handling (Sentry.io) Setup](Features/ErrorHandling.md)
 
-Analytics (Google Analytics)
+[Analytics (Google Analytics) Setup](Features\Seo.md)
