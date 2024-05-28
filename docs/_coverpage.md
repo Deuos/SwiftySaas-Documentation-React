@@ -1,15 +1,15 @@
-![logo](imgs/SwiftySaasLogo.svg)
+![logo](imgs/SwiftySaasLogoWhite.svg)
 
 # SwiftySaas Docs
 
-> A magical documentation site generator.
+> Build Fast, Validate Faster
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Questions?
+- [Email me](mailto:contact@swiftysaas.com) or pm on [Twitter](https://x.com/Iamdeuos)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[Get SwiftySaas Here!](https://swiftysaas.com/)
 
-[Get Started](#docsify)
+[Get Started](#swiftysaas-documentation)
 
 ![color](#4A52FF)
