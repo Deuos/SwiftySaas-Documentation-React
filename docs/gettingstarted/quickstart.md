@@ -18,7 +18,7 @@ Check out their [Pricing](https://supertokens.com/pricing), here.
 
 We will be using their `Email + Password login` for our boilerplate.
 
-Configure Supertokens, [Click here](gettingstarted\quickstart/authenticationSetup.md).
+Configure Supertokens, [Click here](gettingstarted\quickstart/authenticationSetup.md) **Important!**
 
 ##### Step 2: Env Setups
 
@@ -26,7 +26,7 @@ Configure Supertokens, [Click here](gettingstarted\quickstart/authenticationSetu
 
 [Authenication (Supertoken) / URL Setup](gettingstarted/quickstart\authenticationSetup.md)
 
-Email (ConvertKit) Setup
+[Email (ConvertKit) Setup](Features/Email.md)
 
 Payment (Stripe) Setup
 

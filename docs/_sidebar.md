@@ -10,6 +10,7 @@
 * Features
   * [Seo](Features/Seo.md)
   * [Database](Features/Database.md)
-  * Emails
-  * Payment (Stripe)
+  * [Emails](Features/Email.md)
+  * [Payment (Stripe)](Features/Payment.md)
   * [Error Handling](Features/ErrorHandling.md)
+  * AI

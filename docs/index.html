@@ -24,6 +24,25 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      search: 'auto',
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        placeholder: 'Type to search',
+
+        // Localization
+        placeholder: {
+          '/': 'Type to search',
+        },
+
+        noData: 'No Results!',
+
+        // Localization
+        noData: {
+          '/': 'No Results',
+        },
+      },
+      // Headline depth, 1 - 6
+      depth: 2,
       themeColor: '#4A52FF',
       coverpage: true,
       loadSidebar: true,
@@ -33,6 +52,8 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 </html>
