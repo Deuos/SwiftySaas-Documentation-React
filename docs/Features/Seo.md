@@ -11,3 +11,6 @@
 2. To test out metadata locally you can use extensions like [Open Graph Preview](https://addons.mozilla.org/en-US/firefox/addon/open-graph-preview-and-debug/) (Firefox Only) or [META SEO Inspector](https://chromewebstore.google.com/detail/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) (Chrome Only)
 
 ##### SiteMap
+
+1. In your `public` folder, there should be a sitemap premade for you. You can edit it or ask chatgpt to automatically update it with your routes.
+2. Your `robots.txt` file should be similar to your `sitemap.xml`
