@@ -4,7 +4,7 @@ Since you have already cloned the folders.
 
 Lets get started!
 
-##### Step 1: Authentication (Supertokens)
+##### Step 1: Authentication (Supertokens) Important
 
 Our boilerplate utilizes [Supertokens](https://supertokens.com/) to handle our Login, Sign Up, Verification, etc...
 
@@ -18,13 +18,13 @@ Check out their [Pricing](https://supertokens.com/pricing), here.
 
 We will be using their `Email + Password login` for our boilerplate.
 
-Configure Supertokens, [Click here](gettingstarted\quickstart/authenticationSetup.md) **Important!**
+Configure Supertokens, [Click here](Features/Authentication.md) **Important!**
 
 ##### Step 2: Env Setups
 
-[Database (MongoDB) Setup](Features/Database.md)
+[Authenication (Supertoken) / URL Setup](Features/Authentication.md)
 
-[Authenication (Supertoken) / URL Setup](gettingstarted/quickstart\authenticationSetup.md)
+[Database (MongoDB) Setup](Features/Database.md)
 
 [Email (ConvertKit) Setup](Features/Email.md)
 
