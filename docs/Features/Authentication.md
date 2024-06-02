@@ -34,7 +34,7 @@ Most of its already configured for you.
 
 `getRedirectionURL`, once a user signs in, they will be redirected to `/Profile`. If you want to change the url post sign in or sign up. Change it to whatever path you desire.
 
-In `recipeList`, `EmailVerification` is currently optional, so a user doesn't need to verify their email post signup. To require email verification, change it from `Optional` to `Required`. Both Frontend and Backend Supertoken Config.
+In `recipeList`, `EmailVerification` is currently Required, so a user does need to verify their email post signup. To make optional email verification, change it from `Required` to `Optional`. Both on Frontend and Backend Supertoken Config. Alternativity you will need to remove EmailVerificationClaim for each of the check routes. View [Supertokens documentation](https://supertokens.com/docs/thirdparty/common-customizations/email-verification/about) for more information.
 
 To configure the look of the Supertokens Sign In/Sign Up UI look at this [documentation](https://supertokens.com/docs/passwordless/common-customizations/styling/changing-style) provided by them.
 
