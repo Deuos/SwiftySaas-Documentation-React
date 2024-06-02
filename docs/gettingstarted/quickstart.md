@@ -28,7 +28,7 @@ To configure **Supertokens**, [click here](Features/Authentication.md) **First S
 
 [Email (ConvertKit) Setup](Features/Email.md)
 
-Payment (Stripe) Setup
+[Payment (Stripe) Setup](Features/Payment.md)
 
 [Real-time Error handling (Sentry.io) Setup](Features/ErrorHandling.md)
 

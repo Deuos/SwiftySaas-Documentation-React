@@ -1,11 +1,16 @@
 # Email
 
+##### Supertokens Email Setup
+
+If you don't enable this feature, SuperTokens will send password reset and email verification emails via no-reply@supertokens.com. However, if you prefer to use your own email address, such as no-reply@swiftysaas.com, you can do so for free.
+
+To configure this, head over to `backend/src/services/supertokens/supertoken.ts`, where you should uncomment the lines related to `SMTPService` and `smtpSettings` and fill in the required information. For more information, please refer to the [SuperTokens documentation](https://supertokens.com/docs/emailpassword/email-delivery/smtp/configure-smtp).
+
 ##### ConvertKit Setup
 
 You can choose other services for sending emails, like SendGrid, MailChimp, etc. For authentication like Password reset and email verification, Supertoken handles all email sending for you, automatically via your custom email or their email.
 
 So, why ConvertKit? Their free tier is okay, but you will have to do things manually, and automation requires a monthly subscription. However, their UI and process are easy to set up. One key feature is the mandatory inclusion of your business address in emails, as required by the [US CAN-SPAM Act](https://www.fcc.gov/general/can-spam). With ConvertKit, you can use their business address even with a free account, and they will forward all mail you receive by email. This is perfect for developers like us who don't have a physical business address yet.
-
 
 1. Sign Up for ConvertKit
 2. Head to `Settings`, `Advanced`, Add the API Key to `EMAIL_CONVERTKIT_APIKEY=""` and API Secret to `EMAIL_CONVERTKIT_APISECRET=""`

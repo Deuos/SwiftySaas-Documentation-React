@@ -2,16 +2,18 @@
 
 Welcome to SwiftySaas
 
-Here's a quick overview of the boilerplate. Once you have access to the SwiftySaas Boilerplate Github Repostirary, clone the projects on to your workspace.
+Once you have access to the SwiftySaaS Boilerplate download link, download the zipped file and unzip it.
 
-##### Step 1: Download the Source Code
+Step 1: Download the Source Code
 
 ```
 cd Frontend
 npm install
+npm run dev
 
 cd Backend
 npm install
+npm run start
 ```
 
 This will install the neccessary packages for the website to work.

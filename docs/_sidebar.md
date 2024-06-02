@@ -2,9 +2,8 @@
 * **Getting Started**
   * [Quick Start](gettingstarted/quickstart.md)
 * **User Authentication**
-  * Overview
-  * Public Routes/API Calls
-  * Private Routes/API Calls
+  * [Public Routes/API Calls](UserAuthentication/Public.md)
+  * [Private Routes/API Calls](UserAuthentication/Private.md)
 * **Features**
   * [Authentication](Features/Authentication.md)
   * [Seo](Features/Seo.md)
