@@ -4,11 +4,13 @@
 
 > Build Fast, Validate Faster
 
-- Simple and lightweight
-- Questions?
-- [Email me](mailto:contact@swiftysaas.com) or pm on [Twitter](https://x.com/Iamdeuos)
+- **Simple and lightweight**
+- **Questions?**
+- [Email me](mailto:contact@swiftysaas.com)
+- [Pm on Twitter](https://x.com/Iamdeuos)
+- [Discord](https://discord.gg/KMfqk29UzJ)
 
-[Get SwiftySaas Here!](https://swiftysaas.com/)
+[**Get SwiftySaas Here!**](https://swiftysaas.com/)
 
 [Get Started](#swiftysaas-documentation)
 

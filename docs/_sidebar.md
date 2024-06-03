@@ -29,5 +29,5 @@
   * [Payment](AuthenticatedComponents/Payment.md)
   * [AI](AuthenticatedComponents/AI.md)
 * **Deployment**
-  * Frontend Deployment
-  * Backend Deployment
+  * [Frontend Deployment](Deployment/FrontendDeploy.md)
+  * [Backend Deployment](Deployment/BackendDeploy.md)
