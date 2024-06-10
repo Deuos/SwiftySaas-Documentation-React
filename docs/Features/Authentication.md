@@ -8,6 +8,8 @@ Step 3: Select Prebuilt UI
 
 Step 4: Finish all steps in Supertokens
 
+**IMPORTANT Once you reach the end, don't forget to add USER ROLES.**
+
 ##### Frontend Setup
 
 **Env Setup**
@@ -91,3 +93,7 @@ If you are on **Windows**, you will need to use [Postman](https://www.postman.co
 Paste the same line into the URL box and it will auto-configure and ask you for the password, and email, and URL link.
 
 This will create your Email and Password for your Admin. From their, you can directly access the user accounts created, and change passwords, emails, etc.
+
+###### User Roles
+
+Once your user dashboard is setup, please make sure to add the following roles. `User` and `Paid`, no need to add any permissions since we don't use them. But if you don't add these than the website won't recognize the user role claims.
